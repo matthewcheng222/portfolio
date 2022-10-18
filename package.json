@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://matthewcheng222.github.io/portfolio",
+  "homepage": "https://matthewcheng.dev/portfolio",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",

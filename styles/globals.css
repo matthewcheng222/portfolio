@@ -10,8 +10,4 @@
   li {
     @apply cursor-pointer
   }
-
-  button {
-    @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-slate-400 to-purple-400 text-white
-  }
 }

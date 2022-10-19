@@ -8,13 +8,13 @@ import Typewriter from 'typewriter-effect';
 const Hero = () => {
   return (
     <div>
-        <div className='max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
+        <div name='hero' className='max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
             <div>
                 <Image className='rounded-full'
                     src={memoji_waving} 
                     alt='/' 
-                    height='300'
-                    width='300'
+                    height='200px'
+                    width='200px'
                 />
             </div>
             <p className='md:text-3xl sm:text-2xl text-lg font-bold p-2'>Hi, my name is</p>
